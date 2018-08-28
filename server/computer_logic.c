@@ -1,4 +1,8 @@
-/*This files responsibility is to provide the logic for the computer.*/
+/* This files responsibility is to provide the logic for the computer.
+ * Credit: https://gist.github.com/MatthewSteel/3158579 
+ */
+
+
 #include <stdio.h>
 #include "game.h"
 
